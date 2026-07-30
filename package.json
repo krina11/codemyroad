@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://krina11.github.io/codemyroad",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
